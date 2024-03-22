@@ -1,1 +1,6 @@
-readme added
+# Deneme 
+
+# Alt bilgi
+tekrtktelkwklek
+lkelkwetlkkt
+
