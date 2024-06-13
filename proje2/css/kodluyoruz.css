@@ -1,0 +1,45 @@
+body { 
+    background-color: antiquewhite;
+}
+
+.text-red {
+    color: palevioletred;
+}
+.text-purple {
+    color: purple;
+}
+.text-blue {
+    color: rgb(59, 119, 119);
+}
+.text-center {
+    text-align: center;
+}
+.text-brown {
+    color: brown;
+}
+.container {
+    display: flex;
+    justify-content: center;  /* Yatayda ortala*/
+    
+
+}
+.item {
+    
+    margin-right: 10px;  /* İçerikler arasındaki boşluk*/
+}
+.item:last-child {
+    margin-right: 0;  /* Son içeriğe boşluk eklememek için*/
+}
+.container1 {
+    text-align: center;
+}
+
+.container1 ul {
+    display: inline-block;
+    padding-left: 0;
+}
+
+.container1 li {
+    
+    margin: 10px 0; /* İçerikler arasındaki boşluk */
+}
